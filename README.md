@@ -2,18 +2,22 @@
 # Examen de FrontEnd III
 
 > [!NOTE]
-> 
+> Aqui tines un Nota
+
 > [!TIP]
-> 
+> Esto es un consejo útil.
+
 > [!IMPORTANT]
-> 
+> Esto es importante.
+
 > [!WARNING]
-> 
-> [!CAUTION]]
-> - **Consejo:** Esto es un consejo útil.
-- **Importante:** Esto es importante.
-- **Advertencia:** Esto es una advertencia.
-- **Precaución:** Esto es una precaución.
+> Esto es una advertencia.
+
+> [!CAUTION]
+>  Esto es una precaución.
+
+
+
 
 
 
