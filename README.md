@@ -1,6 +1,6 @@
 # React + Vite
 # Examen de FrontEnd III
->_[!NOTE]_
+> [!NOTE]
 >Aqui tienes una nota
 
 
