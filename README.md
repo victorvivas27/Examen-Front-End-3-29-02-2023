@@ -1,7 +1,10 @@
 # React + Vite
 # Examen de FrontEnd III
 > [!NOTE]
->Aqui tienes una nota
+> [!TIP]
+> [!IMPORTANT]
+> [!WARNING]
+> [!COUTION]
 
 
 
